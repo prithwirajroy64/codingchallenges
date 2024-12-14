@@ -1,7 +1,7 @@
 # 1. Ask user to input 5 numbers and you have to print the average of these five number. Take all the input in one line.
 
 - _in python_
-- [solution](paste the link).
+- [solution](www.google.co.in/).
 
 ---
 

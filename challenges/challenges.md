@@ -1,3 +1,31 @@
+# 12. Develop a program to reverse a given integer(integer takes from user).
+
+- _in python_
+- [solution](paste the link).
+
+---
+
+# 11. Write a program to check if a string is a palindrome (ignoring case and spaces).
+
+- _in python_
+- [solution](paste the link).
+
+---
+
+# 10. Create a web application to generate a QR code for Wi-Fi credentials based on a password provided by the user. The application should include:
+
+1. A user-friendly interface for entering the Wi-Fi password.
+2. Functionality to generate and display a QR code representing the Wi-Fi password.
+3. A mechanism to save the generated QR code locally (as an image).
+4. An option to update the Wi-Fi password and regenerate the QR code, replacing the existing saved QR code.
+5. Responsive design using HTML and CSS to ensure usability across different devices.
+6. And all code write in single file.
+
+- _in HTML, CSS, JS_
+- [solution](paste the link).
+
+---
+
 # 9. Write a program to find the longest word in a sentence.
 
 - _in python_
@@ -68,4 +96,4 @@ conditions:
 # 1. Ask user to input 5 numbers and you have to print the average of these five number. Take all the input in one line.
 
 - _in python_
-- [solution](www.google.co.in/).
+- [solution](https://www.google.com).

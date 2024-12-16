@@ -1,9 +1,9 @@
 # 13. Pseudocode: Number Guessing Game. Convert it into code
 
-BEGIN
-DISPLAY "Welcome to the Number Guessing Game!"
-SET targetNumber = Random number between 1 and 100
-SET maxAttempts = 5
+BEGIN <br>
+DISPLAY "Welcome to the Number Guessing Game!"<br>
+SET targetNumber = Random number between 1 and 100<br>
+SET maxAttempts = 5<br>
 
     DISPLAY "You have " + maxAttempts + " attempts to guess the number."
 

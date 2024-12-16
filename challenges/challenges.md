@@ -1,3 +1,39 @@
+# 13. Pseudocode: Number Guessing Game. Convert it into code
+
+BEGIN
+DISPLAY "Welcome to the Number Guessing Game!"
+SET targetNumber = Random number between 1 and 100
+SET maxAttempts = 5
+
+    DISPLAY "You have " + maxAttempts + " attempts to guess the number."
+
+    FOR attempt FROM 1 TO maxAttempts DO
+        DISPLAY "Attempt " + attempt + ": Enter your guess:"
+        READ userGuess
+
+        IF userGuess == targetNumber THEN
+            DISPLAY "Congratulations! You guessed the number correctly."
+            EXIT LOOP
+        ELSE IF userGuess < targetNumber THEN
+            DISPLAY "Too low! Try again."
+        ELSE
+            DISPLAY "Too high! Try again."
+        ENDIF
+    ENDFOR
+
+    IF userGuess != targetNumber THEN
+        DISPLAY "Sorry, you've used all attempts. The correct number was " + targetNumber + "."
+    ENDIF
+
+    DISPLAY "Thank you for playing!"
+
+END
+
+- _in python_
+- [solution](paste the link).
+
+---
+
 # 12. Develop a program to reverse a given integer(integer takes from user).
 
 - _in python_
